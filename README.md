@@ -1,8 +1,7 @@
 # ESPECIALIDADE ANÁLISE DE SISTEMAS DE 
 INFORMAÇÃO TRF 5 IBFC
 
-# Guia de ESPECIALIDADE ANÁLISE DE SISTEMAS DE 
-INFORMAÇÃO para o Concurso do TRF da 5ª Região.
+# Guia de ESPECIALIDADE ANÁLISE DE SISTEMAS DE INFORMAÇÃO para o Concurso do TRF da 5ª Região.
 
 ## Descrição
 Guia de estudos para a prova do concurso do TRF-5 para Analista de Sistemas.
